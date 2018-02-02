@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gaddr", "TestExport\TestExport.vcproj", "{9D3DD0B1-3B32-4A77-A408-C9AFAD14C887}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcproj", "{9B9D4392-B4FD-4B69-97BD-D816FA942038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D3DD0B1-3B32-4A77-A408-C9AFAD14C887}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D3DD0B1-3B32-4A77-A408-C9AFAD14C887}.Debug|Win32.Build.0 = Debug|Win32
+		{9D3DD0B1-3B32-4A77-A408-C9AFAD14C887}.Release|Win32.ActiveCfg = Release|Win32
+		{9D3DD0B1-3B32-4A77-A408-C9AFAD14C887}.Release|Win32.Build.0 = Release|Win32
+		{9B9D4392-B4FD-4B69-97BD-D816FA942038}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B9D4392-B4FD-4B69-97BD-D816FA942038}.Debug|Win32.Build.0 = Debug|Win32
+		{9B9D4392-B4FD-4B69-97BD-D816FA942038}.Release|Win32.ActiveCfg = Release|Win32
+		{9B9D4392-B4FD-4B69-97BD-D816FA942038}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
